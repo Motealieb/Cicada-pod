@@ -1,0 +1,160 @@
+{
+    // استخدم IntelliSense لمعرفة الخصائص الممكنة.
+    // مرر الماوس لرؤية أوصاف الخصائص الموجودة.
+    // لمزيد من المعلومات، يرجى زيارة: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        // src/firebase.js
+        import { initializeApp } from 'firebase/app';
+        import { getAuth } from 'firebase/auth';
+        import { getStorage } from 'firebase/storage';
+
+        const firebaseConfig = {
+          apiKey: "YOUR_API_KEY",
+            authDomain: "YOUR_APP.firebaseapp.com",
+              projectId: "YOUR_PROJECT_ID",
+                storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                  messagingSenderId: "SENDER_ID",
+                    appId: "APP_ID"
+                    };
+
+                    const app = initializeApp(firebaseConfig);
+
+                    export const auth = getAuth(app);
+                    export const storage = getStorage(app);
+                    // src/firebase.js
+                    import { initializeApp } from 'firebase/app';
+                    import { getAuth } from 'firebase/auth';
+                    import { getStorage } from 'firebase/storage';
+
+                    const firebaseConfig = {
+                      apiKey: "YOUR_API_KEY",
+                        authDomain: "YOUR_APP.firebaseapp.com",
+                          projectId: "YOUR_PROJECT_ID",
+                            storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                              messagingSenderId: "SENDER_ID",
+                                appId: "APP_ID"
+                                };
+
+                                const app = initializeApp(firebaseConfig);
+
+                                export const auth = getAuth(app);
+                                export const storage = getStorage(app);
+                                // src/firebase.js
+                                import { initializeApp } from 'firebase/app';
+                                import { getAuth } from 'firebase/auth';
+                                import { getStorage } from 'firebase/storage';
+
+                                const firebaseConfig = {
+                                  apiKey: "YOUR_API_KEY",
+                                    authDomain: "YOUR_APP.firebaseapp.com",
+                                      projectId: "YOUR_PROJECT_ID",
+                                        storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                                          messagingSenderId: "SENDER_ID",
+                                            appId: "APP_ID"
+                                            };
+
+                                            const app = initializeApp(firebaseConfig);
+
+                                            export const auth = getAuth(app);
+                                            export const storage = getStorage(app);
+                                            // src/firebase.js
+                                            import { initializeApp } from 'firebase/app';
+                                            import { getAuth } from 'firebase/auth';
+                                            import { getStorage } from 'firebase/storage';
+
+                                            const firebaseConfig = {
+                                              apiKey: "YOUR_API_KEY",
+                                                authDomain: "YOUR_APP.firebaseapp.com",
+                                                  projectId: "YOUR_PROJECT_ID",
+                                                    storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                                                      messagingSenderId: "SENDER_ID",
+                                                        appId: "APP_ID"
+                                                        };
+
+                                                        const app = initializeApp(firebaseConfig);
+
+                                                        export const auth = getAuth(app);
+                                                        export const storage = getStorage(app);
+                                                        // src/firebase.js
+                                                        import { initializeApp } from 'firebase/app';
+                                                        import { getAuth } from 'firebase/auth';
+                                                        import { getStorage } from 'firebase/storage';
+
+                                                        const firebaseConfig = {
+                                                          apiKey: "YOUR_API_KEY",
+                                                            authDomain: "YOUR_APP.firebaseapp.com",
+                                                              projectId: "YOUR_PROJECT_ID",
+                                                                storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                                                                  messagingSenderId: "SENDER_ID",
+                                                                    appId: "APP_ID"
+                                                                    };
+
+                                                                    const app = initializeApp(firebaseConfig);
+
+                                                                    export const auth = getAuth(app);
+                                                                    export const storage = getStorage(app);
+                                                                    // src/firebase.js
+                                                                    import { initializeApp } from 'firebase/app';
+                                                                    import { getAuth } from 'firebase/auth';
+                                                                    import { getStorage } from 'firebase/storage';
+
+                                                                    const firebaseConfig = {
+                                                                      apiKey: "YOUR_API_KEY",
+                                                                        authDomain: "YOUR_APP.firebaseapp.com",
+                                                                          projectId: "YOUR_PROJECT_ID",
+                                                                            storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                                                                              messagingSenderId: "SENDER_ID",
+                                                                                appId: "APP_ID"
+                                                                                };
+
+                                                                                const app = initializeApp(firebaseConfig);
+
+                                                                                export const auth = getAuth(app);
+                                                                                export const storage = getStorage(app);
+                                                                                // src/firebase.js
+                                                                                import { initializeApp } from 'firebase/app';
+                                                                                import { getAuth } from 'firebase/auth';
+                                                                                import { getStorage } from 'firebase/storage';
+
+                                                                                const firebaseConfig = {
+                                                                                  apiKey: "YOUR_API_KEY",
+                                                                                    authDomain: "YOUR_APP.firebaseapp.com",
+                                                                                      projectId: "YOUR_PROJECT_ID",
+                                                                                        storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                                                                                          messagingSenderId: "SENDER_ID",
+                                                                                            appId: "APP_ID"
+                                                                                            };
+
+                                                                                            const app = initializeApp(firebaseConfig);
+
+                                                                                            export const auth = getAuth(app);
+                                                                                            export const storage = getStorage(app);
+                                                                                            // src/firebase.js
+                                                                                            import { initializeApp } from 'firebase/app';
+                                                                                            import { getAuth } from 'firebase/auth';
+                                                                                            import { getStorage } from 'firebase/storage';
+
+                                                                                            const firebaseConfig = {
+                                                                                              apiKey: "YOUR_API_KEY",
+                                                                                                authDomain: "YOUR_APP.firebaseapp.com",
+                                                                                                  projectId: "YOUR_PROJECT_ID",
+                                                                                                    storageBucket: "YOUR_PROJECT_ID.appspot.com",
+                                                                                                      messagingSenderId: "SENDER_ID",
+                                                                                                        appId: "APP_ID"
+                                                                                                        };
+
+                                                                                                        const app = initializeApp(firebaseConfig);
+
+                                                                                                        export const auth = getAuth(app);
+                                                                                                        export const storage = getStorage(app);
+                                                                                                        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "إطلاق Chrome ضد localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
